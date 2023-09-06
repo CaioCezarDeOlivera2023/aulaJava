@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Temp\WS-Eclipse\Matriz\Estudos\Funcionario do mes\.metadata\.plugins\org.eclipse.jdt.core
+2495119853.index
+1026935809.index
+1865797976.index
